@@ -1,0 +1,19 @@
+{
+    "private-prompt": "该仓库是私有仓库. 所以获取不到该仓库的技术栈",
+    "loading-prompt": "🏃加载中...",
+    "no-found-prompt": "没有找到该仓库的技术栈",
+
+    "bundler": "打包器",
+    "css framework": "CSS 框架",
+    "frontend framework": "前端框架",
+    "i18n": "i18n",
+    "state management": "状态管理",
+    "ssr framework": "SSR 框架",
+    "web framework": "Web 框架",
+    "jwt": "JWT",
+    "service discovery": "服务发现",
+    "database": "数据库",
+    "ai": "AI",
+    "testing": "测试",
+    "desktop framework": "客户端"
+}
