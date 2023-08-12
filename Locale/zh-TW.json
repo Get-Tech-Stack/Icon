@@ -1,0 +1,19 @@
+{
+    "private-prompt": "該倉庫是私有倉庫. 所以獲取不到該倉庫的技術棧",
+    "loading-prompt": "🏃加載中...",
+    "no-found-prompt": "沒有找到該倉庫的技術棧",
+
+    "bundler": "打包器",
+    "css framework": "CSS 框架",
+    "frontend framework": "前端框架",
+    "i18n": "i18n",
+    "state management": "狀態管理",
+    "ssr framework": "SSR 框架",
+    "web framework": "Web 框架",
+    "jwt": "JWT",
+    "service discovery": "服務發現",
+    "database": "數據庫",
+    "ai": "AI",
+    "testing": "測試",
+    "desktop framework": "客戶端"
+}

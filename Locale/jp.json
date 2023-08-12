@@ -1,0 +1,19 @@
+{
+    "private-prompt": "この倉庫はプライベート倉庫です。そのため、この倉庫のテクノロジースタックを取得できません",
+    "loading-prompt": "🏃読み込み中...",
+    "no-found-prompt": "このウェアハウスのテクノロジー スタックが見つかりませんでした",
+
+    "bundler": "バンドラー",
+    "css framework": "CSS フレームワーク",
+    "frontend framework": "フロントエンド フレームワーク",
+    "i18n": "i18n",
+    "state management": "状態管理",
+    "ssr framework": "SSR フレームワーク",
+    "Web framework": "Web フレームワーク",
+    "jwt": "JWT",
+    "service discovery": "サービスディスカバリ",
+    "database": "データベース",
+    "ai": "AI",
+    "testing": "テスト",
+    "desktop framework":"クライアント"
+}

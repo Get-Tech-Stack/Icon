@@ -1,0 +1,19 @@
+{
+    "private-prompt": "The Repo is a private repo. So we can't get the Tech Stack of the repo.",
+    "loading-prompt": "🏃Loading...",
+    "no-found-prompt": "No found the Tech Stack of the repo",
+
+    "bundler": "Bundler",
+    "css framework": "CSS Framework",
+    "frontend framework": "Frontend Framework",
+    "i18n": "i18n",
+    "state management": "State Management",
+    "ssr framework": "SSR Framework",
+    "web framework": "Web Framework",
+    "jwt": "JWT",
+    "service discovery": "Service Discovery",
+    "database": "Database",
+    "ai": "AI",
+    "testing": "Testing",
+    "desktop framework": "Desktop Framework"
+}
