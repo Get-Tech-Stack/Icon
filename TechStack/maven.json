@@ -1,0 +1,61 @@
+{
+    "filename":"pox.xml",
+    "techstacks":[
+       {
+          "dep_name":"spring-cloud-dependencies",
+          "name":"Spring Cloud",
+          "icon":"https://avatars.githubusercontent.com/u/317776?s=48&v=4",
+          "homepage":"https://spring.io/projects/spring-cloud",
+          "category":"web framework"
+       },
+       {
+          "dep_name":"spring-boot-starter-web",
+          "name":"Spring Boot",
+          "icon":"https://avatars.githubusercontent.com/u/317776?s=48&v=4",
+          "homepage":"https://spring.io/projects/spring-boot",
+          "category":"web framework"
+       },
+       {
+          "dep_name":"spring-webmvc",
+          "name":"Spring MVC",
+          "icon":"https://avatars.githubusercontent.com/u/317776?s=48&v=4",
+          "homepage":"https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#mvc",
+          "category":"web framework"
+       },
+       {
+          "dep_name":"quarkus-arc",
+          "name":"Quarkus",
+          "icon":"https://avatars.githubusercontent.com/u/47638783?s=48&v=4",
+          "homepage":"https://quarkus.io/",
+          "category":"web framework"
+       },
+       {
+          "dep_name":"mysql-connector-java",
+          "name":"MySQL",
+          "icon":"https://raw.githubusercontent.com/Get-Tech-Stack/icon/main/icons/mysql.png",
+          "homepage":"https://www.mysql.com/",
+          "category":"database"
+       },
+       {
+          "dep_name":"jedis",
+          "name":"Redis",
+          "icon":"https://avatars.githubusercontent.com/u/1529926?s=48&v=4",
+          "homepage":"https://redis.io/",
+          "category":"database"
+       },
+       {
+          "dep_name":"postgresql",
+          "name":"PostgreSQL",
+          "icon":"https://raw.githubusercontent.com/Get-Tech-Stack/icon/main/icons/postgresql.jpg",
+          "homepage":"https://www.postgresql.org/",
+          "category":"database"
+       },
+       {
+          "dep_name":"spring-cloud-starter-alibaba-nacos-discovery",
+          "name":"Nacos",
+          "icon":"https://raw.githubusercontent.com/Get-Tech-Stack/icon/main/icons/nacos.png",
+          "homepage":"https://nacos.io/en-us/",
+          "category":"service discovery"
+       }
+    ]
+ }
