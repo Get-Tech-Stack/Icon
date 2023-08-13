@@ -1,159 +1,159 @@
 {
 	"filename":"package.json",
-	"techstaks":[
+	"techstacks":[
 		{
-			"DepName":"react",
-			"Name":"React",
-			"Icon":"https://raw.githubusercontent.com/Get-Tech-Stack/Icon/main/Icons/react.svg",
-			"Homepage":"https://reactjs.org/",
-			"CateGory":"frontend framework"
+			"dep_name":"react",
+			"name":"React",
+			"icon":"https://raw.githubusercontent.com/Get-Tech-Stack/icon/main/icons/react.svg",
+			"homepage":"https://reactjs.org/",
+			"category":"frontend framework"
 		},
 		{
-			"DepName":"vue",
-			"Name":"VUE",
-			"Icon":"https://avatars.githubusercontent.com/u/6128107?s=200&v=4",
-			"Homepage":"https://vuejs.org/",
-			"CateGory":"frontend framework"
+			"dep_name":"vue",
+			"name":"VUE",
+			"icon":"https://avatars.githubusercontent.com/u/6128107?s=200&v=4",
+			"homepage":"https://vuejs.org/",
+			"category":"frontend framework"
 		},
 		{
-			"DepName":"@angular/core",
-			"Name":"Angular",
-			"Icon":"https://avatars.githubusercontent.com/u/139426?s=200&v=4",
-			"Homepage":"https://angular.io/",
-			"CateGory":"frontend framework"
+			"dep_name":"@angular/core",
+			"name":"Angular",
+			"icon":"https://avatars.githubusercontent.com/u/139426?s=200&v=4",
+			"homepage":"https://angular.io/",
+			"category":"frontend framework"
 		},
 		{
-			"DepName":"solid-js",
-			"Name":"Solid",
-			"Icon":"https://avatars.githubusercontent.com/u/79226042?s=48&v=4",
-			"Homepage":"https://www.solidjs.com/",
-			"CateGory":"frontend framework"
+			"dep_name":"solid-js",
+			"name":"Solid",
+			"icon":"https://avatars.githubusercontent.com/u/79226042?s=48&v=4",
+			"homepage":"https://www.solidjs.com/",
+			"category":"frontend framework"
 		},
 		{
-			"DepName":"svelte",
-			"Name":"Svelte",
-			"Icon":"https://avatars.githubusercontent.com/u/23617963?s=200&v=4",
-			"Homepage":"https://svelte.dev/",
-			"CateGory":"frontend framework"
+			"dep_name":"svelte",
+			"name":"Svelte",
+			"icon":"https://avatars.githubusercontent.com/u/23617963?s=200&v=4",
+			"homepage":"https://svelte.dev/",
+			"category":"frontend framework"
 		},
 		{
-			"DepName":"jquery",
-			"Name":"jQuery",
-			"Icon":"https://avatars.githubusercontent.com/u/70142?s=200&v=4",
-			"Homepage":"https://jquery.com/",
-			"CateGory":"frontend framework"
+			"dep_name":"jquery",
+			"name":"jQuery",
+			"icon":"https://avatars.githubusercontent.com/u/70142?s=200&v=4",
+			"homepage":"https://jquery.com/",
+			"category":"frontend framework"
 		},
 		{
-			"DepName":"qwik",
-			"Name":"Qwik",
-			"Icon":"https://avatars.githubusercontent.com/u/35700027?s=48&v=4",
-			"Homepage":"https://qwik.dev/",
-			"CateGory":"frontend framework"
+			"dep_name":"qwik",
+			"name":"Qwik",
+			"icon":"https://avatars.githubusercontent.com/u/35700027?s=48&v=4",
+			"homepage":"https://qwik.dev/",
+			"category":"frontend framework"
 		},
 		{
-			"DepName":"i18next",
-			"Name":"i18next",
-			"Icon":"https://avatars.githubusercontent.com/u/8546082?s=200&v=4",
-			"Homepage":"https://www.i18next.com/",
-			"CateGory":"i18n"
+			"dep_name":"i18next",
+			"name":"i18next",
+			"icon":"https://avatars.githubusercontent.com/u/8546082?s=200&v=4",
+			"homepage":"https://www.i18next.com/",
+			"category":"i18n"
 		},
 		{
-			"DepName":"vue-i18n",
-			"Name":"Vue-i18n",
-			"Icon":"https://avatars.githubusercontent.com/u/6128107?s=200&v=4",
-			"Homepage":"https://kazupon.github.io/vue-i18n/",
-			"CateGory":"i18n"
+			"dep_name":"vue-i18n",
+			"name":"Vue-i18n",
+			"icon":"https://avatars.githubusercontent.com/u/6128107?s=200&v=4",
+			"homepage":"https://kazupon.github.io/vue-i18n/",
+			"category":"i18n"
 		},
 		{
-			"DepName":"react-redux",
-			"Name":"React Redux",
-			"Icon":"https://avatars.githubusercontent.com/u/13142323?s=48&v=4",
-			"Homepage":"https://react-redux.js.org/",
-			"CateGory":"state management"
+			"dep_name":"react-redux",
+			"name":"React Redux",
+			"icon":"https://avatars.githubusercontent.com/u/13142323?s=48&v=4",
+			"homepage":"https://react-redux.js.org/",
+			"category":"state management"
 		},
 		{
-			"DepName":"zustand",
-			"Name":"Zustand",
-			"Icon":"https://raw.githubusercontent.com/Get-Tech-Stack/Icon/main/Icons/zustand.png",
-			"Homepage":"https://zustand-demo.pmnd.rs/",
-			"CateGory":"state management"
+			"dep_name":"zustand",
+			"name":"Zustand",
+			"icon":"https://raw.githubusercontent.com/Get-Tech-Stack/icon/main/icons/zustand.png",
+			"homepage":"https://zustand-demo.pmnd.rs/",
+			"category":"state management"
 		},
 		{
-			"DepName":"vuex",
-			"Name":"Vuex",
-			"Icon":"https://avatars.githubusercontent.com/u/6128107?s=48&v=4",
-			"Homepage":"https://vuex.vuejs.org/",
-			"CateGory":"state management"
+			"dep_name":"vuex",
+			"name":"Vuex",
+			"icon":"https://avatars.githubusercontent.com/u/6128107?s=48&v=4",
+			"homepage":"https://vuex.vuejs.org/",
+			"category":"state management"
 		},
 		{
-			"DepName":"pinia",
-			"Name":"Pinia",
-			"Icon":"https://raw.githubusercontent.com/Get-Tech-Stack/Icon/main/Icons/pinia.png",
-			"Homepage":"https://pinia.esm.dev/",
-			"CateGory":"state management"
+			"dep_name":"pinia",
+			"name":"Pinia",
+			"icon":"https://raw.githubusercontent.com/Get-Tech-Stack/icon/main/icons/pinia.png",
+			"homepage":"https://pinia.esm.dev/",
+			"category":"state management"
 		},
 		{
-			"DepName":"tailwindcss",
-			"Name":"Tailwind CSS",
-			"Icon":"https://raw.githubusercontent.com/Get-Tech-Stack/Icon/main/Icons/tailwindcss.png",
-			"Homepage":"https://tailwindcss.com/",
-			"CateGory":"css framework"
+			"dep_name":"tailwindcss",
+			"name":"Tailwind CSS",
+			"icon":"https://raw.githubusercontent.com/Get-Tech-Stack/icon/main/icons/tailwindcss.png",
+			"homepage":"https://tailwindcss.com/",
+			"category":"css framework"
 		},
 		{
-			"DepName":"sass",
-			"Name":"Sass",
-			"Icon":"https://raw.githubusercontent.com/Get-Tech-Stack/Icon/main/Icons/sass.png",
-			"Homepage":"https://sass-lang.com/",
-			"CateGory":"css framework"
+			"dep_name":"sass",
+			"name":"Sass",
+			"icon":"https://raw.githubusercontent.com/Get-Tech-Stack/icon/main/icons/sass.png",
+			"homepage":"https://sass-lang.com/",
+			"category":"css framework"
 		},
 		{
-			"DepName":"next",
-			"Name":"Next.js",
-			"Icon":"https://avatars.githubusercontent.com/u/14985020?s=48&v=4",
-			"Homepage":"https://nextjs.org/",
-			"CateGory":"ssr framework"
+			"dep_name":"next",
+			"name":"Next.js",
+			"icon":"https://avatars.githubusercontent.com/u/14985020?s=48&v=4",
+			"homepage":"https://nextjs.org/",
+			"category":"ssr framework"
 		},
 		{
-			"DepName":"@remix-run/react",
-			"Name":"Remix",
-			"Icon":"https://avatars.githubusercontent.com/u/64235328?s=48&v=4",
-			"Homepage":"https://remix.run/",
-			"CateGory":"ssr framework"
+			"dep_name":"@remix-run/react",
+			"name":"Remix",
+			"icon":"https://avatars.githubusercontent.com/u/64235328?s=48&v=4",
+			"homepage":"https://remix.run/",
+			"category":"ssr framework"
 		},
 		{
-			"DepName":"nuxt",
-			"Name":"Nuxt.js",
-			"Icon":"https://avatars.githubusercontent.com/u/23360933?s=48&v=4",
-			"Homepage":"https://nuxtjs.org/",
-			"CateGory":"ssr framework"
+			"dep_name":"nuxt",
+			"name":"Nuxt.js",
+			"icon":"https://avatars.githubusercontent.com/u/23360933?s=48&v=4",
+			"homepage":"https://nuxtjs.org/",
+			"category":"ssr framework"
 		},
 		{
-			"DepName":"webpack",
-			"Name":"Webpack",
-			"Icon":"https://raw.githubusercontent.com/Get-Tech-Stack/Icon/main/Icons/webpack.svg",
-			"Homepage":"https://webpack.js.org/",
-			"CateGory":"bundler"
+			"dep_name":"webpack",
+			"name":"Webpack",
+			"icon":"https://raw.githubusercontent.com/Get-Tech-Stack/icon/main/icons/webpack.svg",
+			"homepage":"https://webpack.js.org/",
+			"category":"bundler"
 		},
 		{
-			"DepName":"vite",
-			"Name":"Vite",
-			"Icon":"https://raw.githubusercontent.com/Get-Tech-Stack/Icon/main/Icons/vite.svg",
-			"Homepage":"https://vitejs.dev/",
-			"CateGory":"bundler"
+			"dep_name":"vite",
+			"name":"Vite",
+			"icon":"https://raw.githubusercontent.com/Get-Tech-Stack/icon/main/icons/vite.svg",
+			"homepage":"https://vitejs.dev/",
+			"category":"bundler"
 		},
 		{
-			"DepName":"electron",
-			"Name":"Electron",
-			"Icon":"https://avatars.githubusercontent.com/u/13409222?s=48&v=4",
-			"Homepage":"https://www.electronjs.org/",
-			"CateGory":"desktop framework"
+			"dep_name":"electron",
+			"name":"Electron",
+			"icon":"https://avatars.githubusercontent.com/u/13409222?s=48&v=4",
+			"homepage":"https://www.electronjs.org/",
+			"category":"desktop framework"
 		},
 		{
-			"DepName":"@tauri-apps/cli",
-			"Name":"Tauri",
-			"Icon":"https://avatars.githubusercontent.com/u/54536011?s=48&v=4",
-			"Homepage":"https://tauri.studio/",
-			"CateGory":"desktop framework"
+			"dep_name":"@tauri-apps/cli",
+			"name":"Tauri",
+			"icon":"https://avatars.githubusercontent.com/u/54536011?s=48&v=4",
+			"homepage":"https://tauri.studio/",
+			"category":"desktop framework"
 		}
 	]
 }
